@@ -51,7 +51,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Raja070707/file-filter-botv5?organization=Raja070707&organization=Raja070707">
+<a href="https://heroku.com/deploy?template=https://github.com/Raja070707/file-filter-botv5/edit/master/README.md">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
